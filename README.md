@@ -1,6 +1,6 @@
-Information Systems Graduate Student
-University of Maryland College Park
-Triathlete - Learner - Reader
+Information Systems Graduate Student<br>
+University of Maryland College Park<br>
+Triathlete - Learner - Reader<br>
 
 <!--
 **subpa/subpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
